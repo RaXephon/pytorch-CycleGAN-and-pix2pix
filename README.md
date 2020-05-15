@@ -2,7 +2,7 @@
 
 Our image dataset which contains images of various exposures as well as the original images.
 
-We utilized the dataset in pix2pix_application.ipynb to both train and test on.
+We utilized the dataset in `pix2pix_application.ipynb` to both train and test on.
 
 ## Installation
 ```bash
